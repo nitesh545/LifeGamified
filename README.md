@@ -1,5 +1,5 @@
 # LifeGamified
-## Gamification of life. Inspired by solo levelling
+### Gamification of life. Inspired by solo levelling
 
 Gamifying your life can be a fun and effective way to motivate yourself and achieve your goals:
 
